@@ -8,3 +8,4 @@
 nad4-su/nad4-su is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nad4-su)](https://github.com/anuraghazra/github-readme-stats)
